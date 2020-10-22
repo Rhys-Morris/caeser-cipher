@@ -46,7 +46,7 @@ def caesar_cipher(string, rotate)
     converted_string
 end
 
-# Get use input for conversion
+# Get user input for conversion
 puts "Enter plaintext to cipher:"
 original = gets.chomp
 puts "Enter cipher rotation:"
